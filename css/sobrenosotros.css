@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(13, 173, 173);
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+[href="categorias.html"]{
+    color: red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 900;
+    font-size: larger;
+}
+[href="tiendas.html"]{
+    color: red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 900;
+    font-size: larger;
+}
+[href="contactanos.html"]{
+    color: red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 900;
+    font-size:larger
+}
+[href="index.html"]{
+    color: red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 900;
+    font-size:larger
+}

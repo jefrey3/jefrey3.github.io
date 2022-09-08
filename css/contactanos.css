@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(80, 219, 224);
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+footer{
+    background-color:rgb(27, 190, 169) ;
+}
+.q{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+
+[href="categorias.html"]{
+    color: red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 900;
+    font-size: larger;
+}
+[href="tiendas.html"]{
+    color: red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 900;
+    font-size: larger;
+}
+[href="contactanos.html"]{
+    color: red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 900;
+    font-size:larger
+}
+[href="index.html"]{
+    color: red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 900;
+    font-size:larger
+}

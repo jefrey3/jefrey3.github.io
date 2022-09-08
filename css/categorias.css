@@ -1,0 +1,71 @@
+header{
+    background-color:  rgb(13, 173, 173);
+}
+
+body{
+    background-color:rgb(80, 219, 224) ;
+    text-align: center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: oblique;
+    font-weight: 10;
+    font-size:large;
+}
+
+footer{
+    background-color:rgb(27, 190, 169) ;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 20;
+    font-size: small;
+}
+
+.q{
+    color:black;
+
+}
+
+.s{
+    background-color: rgb(36, 162, 167);
+    margin-left: 800px;
+    margin-right: 800px;
+}
+
+[href="categorias.html"]{
+    color: red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 900;
+    font-size: larger;
+}
+
+[href="tiendas.html"]{
+    color: red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 900;
+    font-size: larger;
+}
+
+[href="contactanos.html"]{
+    color: red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 900;
+    font-size:larger
+}
+
+[href="index.html"]{
+    color: red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 900;
+    font-size:larger;
+}
+.reg{
+    background-color:rgb(16, 194, 179);
+    border-color: black;
+    color: rgb(0, 0, 0);
+    border-style: solid;
+    position: absolute;
+    width: 450px;
+    height: 300px;
+    top: 800px;
+    left: 1400px;
+    font-size: xx-large;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
